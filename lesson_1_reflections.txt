@@ -14,3 +14,5 @@ It is pretty easy, and helpful to track down
 
 How might using version control make you more confident to make changes that could break something?
 I can keep track of each additional feature and helps me to backtrack when there is a problem
+
+Yeah, made it! Going to do second commit!
